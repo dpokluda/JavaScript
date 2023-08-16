@@ -18,3 +18,6 @@ To run the sandbox, simply run:
 ```
 npm run start
 ```
+
+# Resources
+- [JavaScript Fundamentals](https://app.pluralsight.com/library/courses/javascript-fundamentals/table-of-contents) Pluralsight course
