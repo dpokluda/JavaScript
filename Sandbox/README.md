@@ -3,9 +3,9 @@ Simple JavaScript project to test things.
 
 ## Prerequisites
 You will need:
-- [npm](https://www.npmjs.com/) installed:
+- [node](https://nodejs.org/en) installed:
 ```
-brew install npm
+brew install node
 ```
 
 ## Steps
@@ -16,7 +16,7 @@ npm install
 
 To run the sandbox, simply run:
 ```
-npm run start
+npm run dev
 ```
 
 # Resources
